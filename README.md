@@ -30,6 +30,8 @@ Data Visualization: Developing interactive and informative visualizations that p
 
 Trend Analysis: Identifying patterns, trends, and anomalies in the dataset through visualization and statistical analysis.
 
+# Airbnb Dashboard link :  [click to view my dashboard](https://public.tableau.com/app/profile/janani.t4628/viz/AirbnbAnalysistableau/Dashboard1?publish=yes)
+
 # Conclusion
 This README provides an overview of my project's main objectives and the three key phases: scraping data from the MongoDB sample dataset, dataset cleanup and pre-processing, and data visualization and trend analysis using Tableau. Each phase plays a vital role in the quest to extract meaningful insights from the data.
 
